@@ -1,0 +1,10 @@
+{
+  "name": "factorio-modding-tutorial-1",
+  "version": "1.0.0",
+  "title": "Tutorial MOD 1",
+  "author": "mznpy",
+  "factorio_version": "1.0.0",
+  "dependencies": [
+    "base >= 1.0.0"
+  ]
+}
